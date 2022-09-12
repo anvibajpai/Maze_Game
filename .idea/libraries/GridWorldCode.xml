@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GridWorldCode">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode/framework" />
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode/projects/boxBug" />
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode/projects/critters" />
+      <root url="file://$USER_HOME$/Downloads/GridWorldCode/projects/firstProject" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/GridWorldCode" recursive="false" />
+  </library>
+</component>
